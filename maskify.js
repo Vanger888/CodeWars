@@ -12,4 +12,3 @@ function maskify(cc) {
 }
 
 
-console.log(maskify('4234dsssdfsdf2232'));
